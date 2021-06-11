@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_GdCr2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.16769495
+_cell_length_b   10.16877213
+_cell_length_c   10.17067663
+_cell_angle_alpha   119.98251499
+_cell_angle_beta   90.02616543
+_cell_angle_gamma   119.94429214
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   GdCr2
+_chemical_formula_sum   'Gd2 Cr4'
+_cell_volume   744.22925884
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Gd  Gd0  1  0.87499500  0.75003000  0.62499800  1.0
+  Gd  Gd1  1  0.12505800  0.25001400  0.37498700  1.0
+  Cr  Cr2  1  0.50003000  0.49985200  0.99990300  1.0
+  Cr  Cr3  1  0.50003500  0.00012400  0.50016400  1.0
+  Cr  Cr4  1  0.50005100  0.00007500  0.99991800  1.0
+  Cr  Cr5  1  0.99984500  0.49990300  0.99998300  1.0

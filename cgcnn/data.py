@@ -295,7 +295,7 @@ class CIFData(Dataset):
     target: torch.Tensor shape (1, )
     cif_id: str or int
     """
-    def __init__(self, root_dir, max_num_nbr=12, radius=8, dmin=0, step=0.2,
+    def __init__(self, root_dir, max_num_nbr=12, radius=12 , dmin=0, step=0.2, # radius originally 8
                  random_seed=123):
         self.root_dir = root_dir
         self.max_num_nbr, self.radius = max_num_nbr, radius

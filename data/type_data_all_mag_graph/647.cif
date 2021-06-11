@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_Ta2Co
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.80487601
+_cell_length_b   4.80529653
+_cell_length_c   9.20569607
+_cell_angle_alpha   89.98746951
+_cell_angle_beta   89.99357757
+_cell_angle_gamma   89.99861051
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ta2Co
+_chemical_formula_sum   'Ta4 Co2'
+_cell_volume   212.54896624
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Co  Co0  1  0.50000000  0.50000000  0.50000000  1.0
+  Co  Co1  1  0.00000000  0.00000000  0.00000000  1.0
+  Ta  Ta2  1  0.50005350  0.50004150  0.83069650  1.0
+  Ta  Ta3  1  0.99999650  0.00002350  0.33072250  1.0
+  Ta  Ta4  1  0.49994650  0.49995850  0.16930350  1.0
+  Ta  Ta5  1  0.00000350  0.99997650  0.66927750  1.0

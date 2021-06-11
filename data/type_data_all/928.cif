@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_MnRe3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.70811662
+_cell_length_b   5.71787222
+_cell_length_c   10.30257427
+_cell_angle_alpha   93.70092514
+_cell_angle_beta   93.68519405
+_cell_angle_gamma   90.65546773
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnRe3
+_chemical_formula_sum   'Mn1 Re3'
+_cell_volume   334.82220432
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.50001475  0.50001225  0.99999600  1.0
+  Re  Re1  1  0.99999125  0.99999150  0.99999875  1.0
+  Re  Re2  1  0.44646425  0.44569775  0.60540700  1.0
+  Re  Re3  1  0.55352825  0.55430300  0.39459425  1.0

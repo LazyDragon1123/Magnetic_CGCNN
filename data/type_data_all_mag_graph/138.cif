@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_PrMn2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.83811300
+_cell_length_b   7.64750700
+_cell_length_c   8.76660800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PrMn2
+_chemical_formula_sum   'Pr4 Mn8'
+_cell_volume   391.40283534
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.00000000  0.35775200  0.67228700  1.0
+  Pr  Pr1  1  0.00000000  0.64224800  0.32771300  1.0
+  Pr  Pr2  1  0.00000000  0.85775200  0.82771300  1.0
+  Pr  Pr3  1  0.00000000  0.14224800  0.17228700  1.0
+  Mn  Mn4  1  0.50000000  0.09019200  0.85087600  1.0
+  Mn  Mn5  1  0.50000000  0.90980800  0.14912400  1.0
+  Mn  Mn6  1  0.50000000  0.59019200  0.64912400  1.0
+  Mn  Mn7  1  0.50000000  0.40980800  0.35087600  1.0
+  Mn  Mn8  1  0.25729100  0.50000000  0.00000000  1.0
+  Mn  Mn9  1  0.74270900  0.00000000  0.50000000  1.0
+  Mn  Mn10  1  0.74270900  0.50000000  0.00000000  1.0
+  Mn  Mn11  1  0.25729100  0.00000000  0.50000000  1.0

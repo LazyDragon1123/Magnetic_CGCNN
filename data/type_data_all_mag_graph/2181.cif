@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_Sm2Mn3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.86899200
+_cell_length_b   10.17014729
+_cell_length_c   12.17633351
+_cell_angle_alpha   83.05769211
+_cell_angle_beta   80.85848725
+_cell_angle_gamma   79.03477494
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sm2Mn3
+_chemical_formula_sum   'Sm2 Mn3'
+_cell_volume   462.36009527
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.24080500  0.65568000  0.86271000  1.0
+  Sm  Sm1  1  0.75919500  0.34432000  0.13729000  1.0
+  Mn  Mn2  1  0.19844900  0.98127900  0.62182300  1.0
+  Mn  Mn3  1  0.80155100  0.01872100  0.37817700  1.0
+  Mn  Mn4  1  0.00000000  0.00000000  0.00000000  1.0

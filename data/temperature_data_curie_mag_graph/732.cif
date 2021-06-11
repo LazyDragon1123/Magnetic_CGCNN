@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_FeNi
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.09417428
+_cell_length_b   4.09417428
+_cell_length_c   4.16678039
+_cell_angle_alpha   104.90602174
+_cell_angle_beta   104.90602171
+_cell_angle_gamma   118.45104452
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   FeNi
+_chemical_formula_sum   'Fe2 Ni2'
+_cell_volume   53.08421589
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Fe  Fe0  1  0.33205600  0.66794400  0.00000000  1.0
+  Fe  Fe1  1  0.66794400  0.33205600  0.00000000  1.0
+  Ni  Ni2  1  0.16868500  0.16868500  0.33737000  1.0
+  Ni  Ni3  1  0.83131500  0.83131500  0.66263000  1.0

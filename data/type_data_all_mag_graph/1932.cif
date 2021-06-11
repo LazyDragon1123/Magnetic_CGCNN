@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Er3Ta2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   11.12893000
+_cell_length_b   11.12892992
+_cell_length_c   17.67463600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000025
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Er3Ta2
+_chemical_formula_sum   'Er12 Ta8'
+_cell_volume   1895.77995794
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Er  Er0  1  0.46989500  0.46989500  0.40371800  1.0
+  Er  Er1  1  0.53010500  0.53010500  0.59628200  1.0
+  Er  Er2  1  1.00000000  0.53010500  0.40371800  1.0
+  Er  Er3  1  0.53010500  0.53010500  0.90371800  1.0
+  Er  Er4  1  1.00000000  0.53010500  0.09628200  1.0
+  Er  Er5  1  0.00000000  0.46989500  0.59628200  1.0
+  Er  Er6  1  0.46989500  0.46989500  0.09628200  1.0
+  Er  Er7  1  0.00000000  0.46989500  0.90371800  1.0
+  Er  Er8  1  0.53010500  1.00000000  0.40371800  1.0
+  Er  Er9  1  0.46989500  1.00000000  0.59628200  1.0
+  Er  Er10  1  0.46989500  1.00000000  0.90371800  1.0
+  Er  Er11  1  0.53010500  1.00000000  0.09628200  1.0
+  Ta  Ta12  1  0.00000000  0.00000000  0.50000000  1.0
+  Ta  Ta13  1  0.00000000  0.00000000  0.00000000  1.0
+  Ta  Ta14  1  0.27425400  0.27425400  0.25000000  1.0
+  Ta  Ta15  1  0.72574600  0.72574600  0.75000000  1.0
+  Ta  Ta16  1  0.00000000  0.72574600  0.25000000  1.0
+  Ta  Ta17  1  1.00000000  0.27425400  0.75000000  1.0
+  Ta  Ta18  1  0.72574600  0.00000000  0.25000000  1.0
+  Ta  Ta19  1  0.27425400  0.00000000  0.75000000  1.0

@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_Tb3Cu4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.47875800
+_cell_length_b   6.96369000
+_cell_length_c   8.45984065
+_cell_angle_alpha   114.30370890
+_cell_angle_beta   105.34954314
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tb3Cu4
+_chemical_formula_sum   'Tb3 Cu4'
+_cell_volume   230.10155219
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.13150000  0.63150000  0.26300000  1.0
+  Tb  Tb1  1  0.00000000  0.00000000  0.00000000  1.0
+  Tb  Tb2  1  0.86850000  0.36850000  0.73700000  1.0
+  Cu  Cu3  1  0.32965400  0.01773000  0.65930800  1.0
+  Cu  Cu4  1  0.67034500  0.35842100  0.34069100  1.0
+  Cu  Cu5  1  0.32965500  0.64157900  0.65930900  1.0
+  Cu  Cu6  1  0.67034600  0.98227000  0.34069200  1.0

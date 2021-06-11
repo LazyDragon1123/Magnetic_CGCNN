@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_HoTiFe11
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.70739600
+_cell_length_b   6.44814903
+_cell_length_c   6.44814903
+_cell_angle_alpha   82.42343665
+_cell_angle_beta   68.59123763
+_cell_angle_gamma   68.59123762
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HoTiFe11
+_chemical_formula_sum   'Ho1 Ti1 Fe11'
+_cell_volume   169.64836354
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.00637900  0.99362100  0.99362100  1.0
+  Ti  Ti1  1  0.63329900  0.36670100  0.36670100  1.0
+  Fe  Fe2  1  0.50032400  0.99753800  0.50031500  1.0
+  Fe  Fe3  1  0.00182300  0.99753800  0.50031500  1.0
+  Fe  Fe4  1  0.50032400  0.50031500  0.99753800  1.0
+  Fe  Fe5  1  0.00182300  0.50031500  0.99753800  1.0
+  Fe  Fe6  1  0.72723800  0.77276200  0.77276200  1.0
+  Fe  Fe7  1  0.27617900  0.22382100  0.22382100  1.0
+  Fe  Fe8  1  0.49926200  0.77901200  0.22246400  1.0
+  Fe  Fe9  1  0.49926200  0.22246400  0.77901200  1.0
+  Fe  Fe10  1  0.35454400  0.64545600  0.64545600  1.0
+  Fe  Fe11  1  0.99977200  0.35716800  0.64328900  1.0
+  Fe  Fe12  1  0.99977200  0.64328800  0.35716800  1.0

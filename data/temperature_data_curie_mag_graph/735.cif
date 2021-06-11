@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Sm6Fe7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.79784265
+_cell_length_b   9.36363655
+_cell_length_c   9.42320428
+_cell_angle_alpha   119.76302580
+_cell_angle_beta   90.41931744
+_cell_angle_gamma   90.02236603
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sm6Fe7
+_chemical_formula_sum   'Sm12 Fe14'
+_cell_volume   673.85397104
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.87888965  0.82718898  0.17346313  1.0
+  Sm  Sm1  1  0.87811135  0.34697856  0.17458115  1.0
+  Sm  Sm2  1  0.87430185  0.82559511  0.65084358  1.0
+  Sm  Sm3  1  0.12111035  0.17281102  0.82653687  1.0
+  Sm  Sm4  1  0.12188865  0.65302144  0.82541885  1.0
+  Sm  Sm5  1  0.12569815  0.17440489  0.34915642  1.0
+  Sm  Sm6  1  0.33295124  0.91952721  0.46198787  1.0
+  Sm  Sm7  1  0.33304129  0.54019863  0.07841271  1.0
+  Sm  Sm8  1  0.33345380  0.53715893  0.45768843  1.0
+  Sm  Sm9  1  0.66704876  0.08047279  0.53801213  1.0
+  Sm  Sm10  1  0.66695871  0.45980137  0.92158729  1.0
+  Sm  Sm11  1  0.66654620  0.46284107  0.54231157  1.0
+  Fe  Fe12  1  0.50000000  0.00000000  0.00000000  1.0
+  Fe  Fe13  1  0.53319031  0.84474029  0.15778338  1.0
+  Fe  Fe14  1  0.53337564  0.31134270  0.15461493  1.0
+  Fe  Fe15  1  0.53405470  0.84307041  0.68643243  1.0
+  Fe  Fe16  1  0.46680969  0.15525971  0.84221662  1.0
+  Fe  Fe17  1  0.46662436  0.68865730  0.84538507  1.0
+  Fe  Fe18  1  0.46594530  0.15692959  0.31356757  1.0
+  Fe  Fe19  1  0.00000000  0.00000000  0.00000000  1.0
+  Fe  Fe20  1  0.71379417  0.09487610  0.18976138  1.0
+  Fe  Fe21  1  0.71848928  0.09152430  0.90878476  1.0
+  Fe  Fe22  1  0.71845066  0.81838852  0.90960492  1.0
+  Fe  Fe23  1  0.28620583  0.90512390  0.81023862  1.0
+  Fe  Fe24  1  0.28151072  0.90847570  0.09121524  1.0
+  Fe  Fe25  1  0.28154934  0.18161148  0.09039508  1.0
